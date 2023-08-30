@@ -1,0 +1,59 @@
+.custom-header {
+    background-color: #000;
+    color: #fff;
+}
+
+.custom-header .logo {
+    color: #fff; 
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.custom-header .navbar-nav .nav-link {
+    color: #fff;
+    margin: 0 10px;
+}
+
+.custom-header .navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+
+
+.ml-auto {
+    margin-left: auto !important;
+}
+
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.nav-white-text {
+    color: white !important; 
+}
+
+hr{
+    background-color: #dee2e3;
+    height: 1px;
+}
+
+.hr-azul {
+    
+    background-color: #1e96e6;
+    height: 3px;
+}
+
+.icone-mais{
+    color: #1e96e6;
+    font-size: 2.8em;
+}
+
+.text-nowrap {
+    white-space: nowrap !important;
+}
+
+
